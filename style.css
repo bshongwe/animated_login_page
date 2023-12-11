@@ -42,7 +42,7 @@ body{
 .container a{
     color: #333;
     font-size: 13px;
-    text-direction: none;
+    text-decoration: none;
     margin: 15px 0 10px;
 }
 
